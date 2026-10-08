@@ -22,7 +22,7 @@ Managing inventory across cross-border hubs requires balancing customer fulfillm
 * **Language:** Python
 * **Data Processing & Analytics:** Pandas, NumPy
 * **Visualization Layer:** Power BI Desktop
-* **Source Dataset:** Logistics Warehouse Dataset (Kaggle)
+* **Source Dataset:** Supply Chain Data (Kaggle)
 
 ---
 
@@ -32,5 +32,4 @@ Managing inventory across cross-border hubs requires balancing customer fulfillm
 ├── .gitignore
 ├── finops_inventory_analysis.ipynb
 ├── data/
-│   ├── raw_warehouse_data.csv
-│   └── cleaned_finops_inventory.csv
+│   ├─Other important files like sku_metrics, region_summary, supplier_scorecard
